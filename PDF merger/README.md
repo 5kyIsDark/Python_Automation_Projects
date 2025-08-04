@@ -35,3 +35,9 @@ folder/
 - Install PyPDF2:
 
   pip install PyPDF2
+
+
+## Alternate Of The Code (PDF_Folder_Merger)
+
+- It Merges all the PDF's in a folder (including the one's hidden deep within subfolders)
+
